@@ -13,9 +13,9 @@ author: Fábio Madeira
 # edit this section with your information
 # myjekyll.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /
-title: "***"
-name: "***"
+baseurl: "/"
+title: ***
+name: ***
 email: ***
 email_full: ***
 website: ***
