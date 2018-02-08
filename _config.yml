@@ -14,23 +14,23 @@ author: Fábio Madeira
 # myjekyll.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: "/"
-title: ***
-name: ***
-email: ***
-email_full: ***
-website: ***
-website_full: ***
-github: ***
+title: JiaRen Chang's website
+name: JiaRen Chang
+email: followwar@gmail.com
+email_full: mailto:followwar@gmail.com
+website: JiaRenChang.github.io/
+website_full: https://jiarenchang.github.io/
+github: https://github.com/JiaRenChang/
 twitter: twitter
-tel: ***
-tel_full: ***
-google_maps: ***
+tel: 
+tel_full: 
+google_maps: 
 address:
-  street: ***
-  postcode: ***
-  city: ***
-  country: ***
-google_analytics: ***
+  street: 
+  postcode: 
+  city: 
+  country: Taiwan
+google_analytics: 
 
 # needed for travis-ci build
 exclude: [vendor]
