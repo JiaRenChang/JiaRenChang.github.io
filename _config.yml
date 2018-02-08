@@ -18,8 +18,8 @@ title: ***
 name: ***
 email: ***
 email_full: ***
-website:***
-website_full:***
+website: ***
+website_full: ***
 github: ***
 twitter: twitter
 tel: ***
@@ -30,7 +30,7 @@ address:
   postcode: ***
   city: ***
   country: ***
-google_analytics:***
+google_analytics: ***
 
 # needed for travis-ci build
 exclude: [vendor]
